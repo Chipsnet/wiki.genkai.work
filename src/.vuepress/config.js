@@ -4,12 +4,13 @@ module.exports = {
 locales: {
     '/': {
         label: '日本語',
-        lang: '日本語',
+        lang: 'ja-JP',
         title: '限界大会 Wiki',
         description: description
     },
     '/en/': {
-        lang: 'English',
+        label: 'English',
+        lang: 'en-US',
         title: 'Project Genkai Wiki',
         description: description
     }
