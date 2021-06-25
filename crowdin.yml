@@ -3,3 +3,5 @@ files:
     translation: /src/%locale%/rule/%original_file_name%
   - source: /src/guide/*.md
     translation: /src/%locale%/guide/%original_file_name%
+  - source: /src/*.md
+    translation: /src/%locale%/%original_file_name%
