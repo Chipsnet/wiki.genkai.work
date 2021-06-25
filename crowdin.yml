@@ -1,1 +1,3 @@
-files: []
+files:
+  - source: /src/rule/*.md
+    translation: /src/%locale%/rule/%original_file_name%
