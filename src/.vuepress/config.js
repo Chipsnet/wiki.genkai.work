@@ -45,16 +45,12 @@ locales: {
     docsBranch: 'develop',
     nav: [
       {
-        text: 'Guide',
+        text: 'ガイド',
         link: '/guide/',
       },
       {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'ルール',
+        link: '/rule/'
       }
     ],
     sidebar: {
@@ -68,6 +64,16 @@ locales: {
           ]
         }
       ],
+      '/rule/': [
+        {
+            title: 'Rule',
+            collapsable: false,
+            children: [
+                '',
+                'movie'
+            ]
+        }
+      ]
     }
   },
 
