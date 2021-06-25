@@ -64,8 +64,7 @@ locales: {
           collapsable: false,
           children: [
             '',
-            'using-vue',
-            'hello'
+            'using-vue'
           ]
         }
       ],
