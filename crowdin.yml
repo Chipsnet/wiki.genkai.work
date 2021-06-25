@@ -1,3 +1,5 @@
 files:
   - source: /src/rule/*.md
     translation: /src/%locale%/rule/%original_file_name%
+  - source: /src/guide/*.md
+    translation: /src/%locale%/guide/%original_file_name%
