@@ -1,3 +1,7 @@
-# ルール
+---
+sidebar: auto
+---
 
-このページは、ルールを配置しています。
+# Virtual Station Wiki
+
+Virtual Station Wikiへようこそ！
