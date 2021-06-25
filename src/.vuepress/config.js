@@ -56,7 +56,7 @@ locales: {
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: 'ガイド',
           collapsable: false,
           children: [
             '',
@@ -66,11 +66,12 @@ locales: {
       ],
       '/rule/': [
         {
-            title: 'Rule',
+            title: 'ルール',
             collapsable: false,
             children: [
                 '',
-                'movie'
+                'movie',
+                'modeling'
             ]
         }
       ]
