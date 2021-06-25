@@ -8,7 +8,7 @@ locales: {
         title: '限界大会 Wiki',
         description: description
     },
-    '/en/': {
+    '/en-US/': {
         label: 'English',
         lang: 'en-US',
         title: 'Project Genkai Wiki',
