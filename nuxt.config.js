@@ -14,9 +14,9 @@ export default theme({
                 code: "en",
                 iso: "en-US",
                 file: "en-US.js",
-                name: "English"
-            }
+                name: "English",
+            },
         ],
         defaultLocale: "ja",
-    },
+    }
 });
