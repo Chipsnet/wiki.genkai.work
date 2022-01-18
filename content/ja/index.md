@@ -1,6 +1,6 @@
 ---
 title: このページについて
-description: 'wiki.genkai.workへようこそ！'
+description: '限界大会公式ドキュメント、wiki.genkai.workへようこそ！'
 position: 1
 version: 1
 fullscreen: false
