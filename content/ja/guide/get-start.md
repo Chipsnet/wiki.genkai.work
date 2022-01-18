@@ -13,7 +13,7 @@ fullscreen: false
 ## 1. Discordサーバーに参加する
 
 限界大会は、**Discord**というチャット・通話コミュニティサービス上で行われる企画です。       
-参加には限界大会Discordサーバーへの参加が必須です。
+参加には**限界大会Discordサーバー**への参加が必須です。
 
 [参加用リンク](https://link.m86.work/genkait)にアクセスし、Discordサーバーに参加してください。
 
