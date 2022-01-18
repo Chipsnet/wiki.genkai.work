@@ -1,19 +1,17 @@
 {
   "name": "wiki.genkai.work",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "authors": {
-    "name": "Minato Minami",
-    "email": "contact@genkai.work"
-  },
-  "repository": "/wiki.genkai.work",
+  "version": "1.0.0",
+  "repository": "https://github.com/Chipsnet/wiki.genkai.work.git",
+  "author": "chipsnet <doronomori660@outlook.jp>",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
   },
-  "license": "MIT",
-  "devDependencies": {
-    "vuepress": "1.8.2"
+  "dependencies": {
+    "@nuxt/content-theme-docs": "^0.11.1",
+    "@tailwindcss/aspect-ratio": "^0.4.0",
+    "nuxt": "^2.15.8"
   }
 }

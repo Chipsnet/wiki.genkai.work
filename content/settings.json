@@ -1,0 +1,10 @@
+{
+  "title": "限界大会Wiki",
+  "url": "https://wiki.genkai.work",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "chipsnet/wiki.genkai.work",
+  "twitter": "@genkai_eizo"
+}
