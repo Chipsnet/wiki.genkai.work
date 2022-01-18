@@ -1,6 +1,6 @@
 ---
 title: サービス規約
-description: 'wiki.genkai.workへようこそ、このページの見方をご紹介します。'
+description: '限界大会のサービス規約です。'
 position: 2
 category: ドキュメント
 version: 1

@@ -1,6 +1,6 @@
 ---
 title: 限界映像大会 
-description: 'wiki.genkai.workへようこそ、このページの見方をご紹介します。'
+description: '限界映像大会のルールを紹介しています。'
 position: 5
 category: ルール
 version: 1

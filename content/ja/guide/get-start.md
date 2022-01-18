@@ -1,6 +1,6 @@
 ---
 title: 参加方法
-description: 'wiki.genkai.workへようこそ、このページの見方をご紹介します。'
+description: '限界大会の参加方法を紹介しています。'
 position: 4
 category: ガイド
 version: 1

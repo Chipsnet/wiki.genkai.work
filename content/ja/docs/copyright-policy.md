@@ -1,6 +1,6 @@
 ---
 title: 著作権ポリシー
-description: 'wiki.genkai.workへようこそ、このページの見方をご紹介します。'
+description: '限界大会の著作権に関する取り組みや考えを確認できます。'
 position: 3
 category: ドキュメント
 version: 1

@@ -1,6 +1,6 @@
 ---
 title: お題発表遅刻の場合
-description: 'wiki.genkai.workへようこそ、このページの見方をご紹介します。'
+description: '限界大会のお題公開が遅れた場合の規定を紹介しています。'
 position: 11
 category: ルール
 version: 1

@@ -1,6 +1,6 @@
 ---
 title: このページについて
-description: 'wiki.genkai.workへようこそ、このページの見方をご紹介します。'
+description: 'wiki.genkai.workへようこそ！'
 position: 1
 version: 1
 fullscreen: false
