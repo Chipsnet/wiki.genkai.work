@@ -1,7 +1,7 @@
 ---
 title: お題発表遅刻の場合
 description: 'wiki.genkai.workへようこそ、このページの見方をご紹介します。'
-position: 9
+position: 11
 category: ルール
 version: 1
 fullscreen: false

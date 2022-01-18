@@ -1,7 +1,7 @@
 ---
 title: 限界デザイン大会 
 description: 'wiki.genkai.workへようこそ、このページの見方をご紹介します。'
-position: 7
+position: 9
 category: ルール
 version: 1
 fullscreen: false

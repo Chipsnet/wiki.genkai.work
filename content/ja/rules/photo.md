@@ -1,7 +1,7 @@
 ---
 title: 限界写真大会 
 description: 'wiki.genkai.workへようこそ、このページの見方をご紹介します。'
-position: 8
+position: 10
 category: ルール
 version: 1
 fullscreen: false

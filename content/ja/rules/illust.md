@@ -1,7 +1,7 @@
 ---
 title: 限界イラスト大会 
 description: 'wiki.genkai.workへようこそ、このページの見方をご紹介します。'
-position: 5
+position: 7
 category: ルール
 version: 1
 fullscreen: false

@@ -1,7 +1,7 @@
 ---
 title: 限界モデリング大会 
 description: 'wiki.genkai.workへようこそ、このページの見方をご紹介します。'
-position: 4
+position: 6
 category: ルール
 version: 1
 fullscreen: false

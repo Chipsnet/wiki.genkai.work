@@ -1,7 +1,7 @@
 ---
 title: 限界DTM大会 
 description: 'wiki.genkai.workへようこそ、このページの見方をご紹介します。'
-position: 6
+position: 8
 category: ルール
 version: 1
 fullscreen: false
