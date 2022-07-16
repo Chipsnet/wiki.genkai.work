@@ -3,7 +3,7 @@ title: サービス規約
 description: '限界大会のサービス規約です。'
 position: 2
 category: ドキュメント
-version: 1
+version: 2
 fullscreen: false
 ---
 
